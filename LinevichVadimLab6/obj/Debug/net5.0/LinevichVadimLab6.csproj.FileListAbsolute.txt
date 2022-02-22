@@ -1,0 +1,16 @@
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.exe
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.deps.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.runtimeconfig.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.runtimeconfig.dev.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\ref\LinevichVadimLab6.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.pdb
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.csprojAssemblyReference.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.AssemblyInfoInputs.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.AssemblyInfo.cs
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.csproj.CoreCompileInputs.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\ref\LinevichVadimLab6.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.pdb
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\obj\Debug\net5.0\LinevichVadimLab6.genruntimeconfig.cache

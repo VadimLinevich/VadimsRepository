@@ -1,0 +1,17 @@
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.deps.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.runtimeconfig.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.runtimeconfig.dev.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\LinevichVadimLab6.exe
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\Option.Domain8.deps.json
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\Option.Domain8.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\ref\Option.Domain8.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\LinevichVadimLab6\bin\Debug\net5.0\Option.Domain8.pdb
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.csprojAssemblyReference.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.AssemblyInfoInputs.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.AssemblyInfo.cs
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.csproj.CoreCompileInputs.cache
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.csproj.CopyComplete
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\ref\Option.Domain8.dll
+C:\C#\2SEM\LR6+\LinevichVadimLab6\Option.Domain8\obj\Debug\net5.0\Option.Domain8.pdb

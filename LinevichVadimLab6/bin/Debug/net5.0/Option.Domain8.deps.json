@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Option.Domain8/1.0.0": {
+        "dependencies": {
+          "LinevichVadimLab6": "1.0.0"
+        },
+        "runtime": {
+          "Option.Domain8.dll": {}
+        }
+      },
+      "LinevichVadimLab6/1.0.0": {
+        "runtime": {
+          "LinevichVadimLab6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Option.Domain8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinevichVadimLab6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
